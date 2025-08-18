@@ -1,3 +1,5 @@
+let fahrenheit = '';
+let celcius = '';
 const convertToCelsius = function() {
 };
 
