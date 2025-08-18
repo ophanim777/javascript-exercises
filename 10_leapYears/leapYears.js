@@ -4,6 +4,15 @@ const leapYears = function(year) {
     const century = year % 100 === 0;
     const divideByFourHundred = year % 400 === 0;
 
+if (
+    divideByFour &&
+    (!century || divideByFourHundred)
+  ) {
+    return true;
+  } else {
+    return false;
+  }
+
 
 };
 
