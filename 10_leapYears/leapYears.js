@@ -1,5 +1,5 @@
 let year = ''
-const leapYears = function() {
+const leapYears = function(year) {
 
 };
 
