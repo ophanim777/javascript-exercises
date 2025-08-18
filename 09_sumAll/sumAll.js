@@ -1,6 +1,6 @@
 let min = 1;
 let max = 4;
-const sumAll = function() {
+const sumAll = function(min, max) {
 
 };
 
