@@ -1,3 +1,5 @@
+let min = 1;
+let max = 4;
 const sumAll = function() {
 
 };
